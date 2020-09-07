@@ -1,0 +1,95 @@
+const user = [
+{
+	_id:1,
+	nik:1190,
+	name: "Septian",
+	location:"Jakarta",
+	area:"Emporium Mall",
+	job: "Security" ,
+	enter: "08.05",
+	home:"17.05",
+	interval: "09.15",
+	cdLocation: "JKT",
+	cdArea: "EMP"
+},
+{
+	_id:2,
+	nik:1191,
+	name: "Alex",
+	location:"Surabaya",
+	area:"Emporium Mall",
+	job: "Security" ,
+	enter: "08.05",
+	home:"17.05",
+	interval: "09.15",
+	cdLocation: "SBY",
+	cdArea: "EMP"
+},
+{
+	_id:3,
+	nik:1192,
+	name: "Dono",
+	location:"Tuban",
+	area:"Emporium Mall",
+	job: "Security" ,
+	enter: "08.05",
+	home:"17.05",
+	interval: "09.15",
+	cdLocation: "TBN",
+	cdArea: "EMP"
+},
+{
+	_id:4,
+	nik:1193,
+	name: "Susan",
+	location:"Yogyakarta",
+	area:"Emporium Mall",
+	job: "Security" ,
+	enter: "08.05",
+	home:"17.05",
+	interval: "09.15",
+	cdLocation: "YYK",
+	cdArea: "EMP"
+},
+{
+	_id:5,
+	nik:1194,
+	name: "Susi",
+	location:"Sleman",
+	area:"Emporium Mall",
+	job: "Security" ,
+	enter: "08.05",
+	home:"17.05",
+	interval: "09.15",
+	cdLocation: "SMN",
+	cdArea: "EMP"
+},
+{
+	_id:6,
+	nik:1195,
+	name: "John",
+	location:"Solo",
+	area:"Emporium Mall",
+	job: "Security" ,
+	enter: "08.05",
+	home:"17.05",
+	interval: "09.15",
+	cdLocation: "SLO",
+	cdArea: "EMP"
+},
+{
+	_id:7,
+	nik:1196,
+	name: "Louis",
+	location:"Tangerang",
+	area:"Emporium Mall",
+	job: "Security" ,
+	enter: "08.05",
+	home:"17.05",
+	interval: "09.15",
+	cdLocation: "TNG",
+	cdArea: "EMP"
+},
+]
+
+export default user;
